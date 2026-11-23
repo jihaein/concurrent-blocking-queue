@@ -1,0 +1,7 @@
+*.o
+mysh
+main
+test_queue
+.DS_Store
+*.log
+.env
